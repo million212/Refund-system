@@ -99,7 +99,7 @@ select {
 
 select {
     appearance: none;
-    background-image: url(img/chevron-down.svg);
+    background-image: url('../../img/chevron-down.svg');
     background-position: right 0.7rem top 50%;
     background-repeat: no-repeat;
     background-size: 1.25rem auto;
