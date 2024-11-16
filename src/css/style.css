@@ -210,7 +210,7 @@ aside ul {
     gap: 1rem;
 
     max-height: 310px;
-    max-width: 310px;
+    min-width: 310px;
 
     overflow-y: scroll;
 }
